@@ -36,9 +36,9 @@ Each row contains, for a given subject and activity, 79 averaged signal measurem
 
 The measurements are classified in two domains:
 
-- Time-domain signals (variables prefixed by `timeDomain`), resulting from the capture of accelerometer and gyroscope raw signals.
+- Time-domain signals (variables prefixed by `TimeDomain`), resulting from the capture of accelerometer and gyroscope raw signals.
 
-- Frequency-domain signals (variables prefixed by `frequencyDomain`), resulting from the application of a Fast Fourier Transform (FFT) to some of the time-domain signals.
+- Frequency-domain signals (variables prefixed by `FrequencyDomain`), resulting from the application of a Fast Fourier Transform (FFT) to some of the time-domain signals.
 
 #### Time-domain signals
 
